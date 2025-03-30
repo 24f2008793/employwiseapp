@@ -3,9 +3,9 @@
 ![React](https://img.shields.io/badge/React-19.0.0-61DAFB?logo=react)
 ![Vite](https://img.shields.io/badge/Vite-6.1.0-646CFF?logo=vite)
 
-EmployWise is a modern employee management single-page application built with React and Vite. It features a sleek iOS-inspired dark UI with beautiful animations and transitions.
+EmployWise is a modern employee management single-page application built with React and Vite.
+![image](https://github.com/user-attachments/assets/7ac29d91-2a4e-45bd-9ce9-af192c080c28)
 
-![EmployWise Preview](https://i.imgur.com/YOUR_SCREENSHOT.png) <!-- Replace with your actual screenshot -->
 
 ## 🌟 Features
 
